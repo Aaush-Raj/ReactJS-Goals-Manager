@@ -11,10 +11,12 @@ The Goals Manager utilizes modern styling techniques, such as :
 # conditional CSS,
 # and styled components.
 
-# With module CSS, the styling remains encapsulated within the respective components, preventing any unintended style conflicts.
-# Conditional CSS enables dynamic styling based on certain conditions or user interactions, enhancing the visual appeal and interactivity of the application.
-# Additionally, styled components offer a convenient way to define and reuse styled elements throughout the project.
-
+**With module CSS, the styling remains encapsulated within the respective components, preventing any unintended style conflicts.
+**
+**Conditional CSS enables dynamic styling based on certain conditions or user interactions, enhancing the visual appeal and interactivity of the application.
+**
+** Additionally, styled components offer a convenient way to define and reuse styled elements throughout the project.
+**
 # Key Features:
 
 Add goals: Easily add your goals to the Goals Manager by entering a descriptive title.

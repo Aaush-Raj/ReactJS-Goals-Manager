@@ -1,5 +1,5 @@
 # ReactJS-Goals-Manager 
-# Helps you to Manage and Track Your Goals!
+-- > Helps you to Manage and Track Your Goals!
 
 # Description:
 The ReactJS Goals Manager is a powerful web application designed to help you manage and track your goals effectively. With this intuitive and user-friendly interface, you can effortlessly add and delete goals with just a click.
